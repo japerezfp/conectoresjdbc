@@ -1,4 +1,4 @@
-package com.aad.conector;
+package com.add2.conectores;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
